@@ -1,0 +1,2 @@
+[05-Sep-2013 03:29:06 Europe/Berlin] PHP Warning:  require_once(./TemplateS/game.colors.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/lolcom/public_html/m3/AdMiN/www.main.php on line 64
+[05-Sep-2013 03:29:06 Europe/Berlin] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './TemplateS/game.colors.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lolcom/public_html/m3/AdMiN/www.main.php on line 64

@@ -1,0 +1,23 @@
+[Comments can be put in here. Here is the explanation of how this file works you can modify or make you own maps for Lol3! just as simple as this no enter must be in the comment line:the game will recognize as x-y value.background is used for all fields unless there are other given. Currently it can only support one type of images at the first line of the in this case I use 'gif' because they can have movement in it.]
+gif
+bg
+1-1
+1-2
+1-3
+1-6
+1-7
+1-8
+2-1
+2-2
+2-3
+2-6
+2-7
+2-8
+3-1
+3-2
+3-3
+3-6
+3-7
+3-8
+5-5
+10-10

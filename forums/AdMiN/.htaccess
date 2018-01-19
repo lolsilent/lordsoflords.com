@@ -1,0 +1,11 @@
+AuthUserFile .htpasswd
+AuthGroupFile /dev/null
+AuthName 'administrators only'
+AuthType Basic
+<Limit GET>
+require valid-user
+</Limit>
+ErrorDocument 401 /error/index.php?401
+ErrorDocument 403 /error/index.php?403
+ErrorDocument 404 /error/index.php?404
+ErrorDocument 500 /error/index.php?500
